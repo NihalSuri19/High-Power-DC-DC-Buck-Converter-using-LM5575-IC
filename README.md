@@ -2,7 +2,7 @@
 
 Gerber files for a high power DC-DC buck converter. The input voltage can be anywhere between the range of 5V - 70V and the output will be 5V at 1.5 amps constant current. The LM5575 IC from Texas Instruments has been used to develop the same. 
 
-The PCB is ready for productiona and can be ordered by one. 
+The PCB is ready for production and can be ordered by one. 
 
 # Electrical Schematic 
 ![schem](https://user-images.githubusercontent.com/37659632/128471723-94a6b4b1-332f-48cf-a997-2e4ae9066d3d.PNG)
